@@ -162,10 +162,3 @@ El volumen configurado en `docker-compose.yml` monta el proyecto en `/app`; por 
 ## Tecnologías
 
 Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn, Docker, Git y GitHub. Las dependencias de Python se declaran en `requirements.txt`.
-
-## Próximos pasos
-
-- Comparar el modelo de regresión con otros algoritmos de Scikit-Learn y evaluar métricas de regresión.
-- Incorporar variables agrícolas adicionales, si se dispone de datos confiables.
-- Realizar una evaluación temporal independiente para estimar mejor el desempeño en años futuros.
-- Preparar la demostración final con escenarios nuevos para Cartago.
