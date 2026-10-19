@@ -1,0 +1,9 @@
+services:
+  prediccion-cafetera:
+    build: .
+    container_name: prediccion-cafetera
+    volumes:
+      - .:/app
+    working_dir: /app/src
+    stdin_open: true
+    tty: true
