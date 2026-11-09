@@ -1,10 +1,14 @@
+from pathlib import Path
+
 import pandas as pd
 
+RAIZ = Path(__file__).resolve().parents[1]  # funciona desde cualquier carpeta
+
 # Archivo original
-archivo_entrada = "data/eva_base_agricola.csv"
+archivo_entrada = RAIZ / "data" / "eva_base_agricola.csv"
 
 # Archivo limpio
-archivo_salida = "data/cafe_valle_limpio.csv"
+archivo_salida = RAIZ / "data" / "cafe_valle_limpio.csv"
 
 # Leer datos
 df = pd.read_csv(archivo_entrada)
@@ -155,7 +159,7 @@ resumen = pd.DataFrame([
     },
 ])
 
-resumen.to_csv("data/resumen_antes_despues.csv", index=False)
+resumen.to_csv(RAIZ / "data" / "resumen_antes_despues.csv", index=False)
 print("\nTabla antes/después:")
 print(resumen.to_string(index=False))
 
