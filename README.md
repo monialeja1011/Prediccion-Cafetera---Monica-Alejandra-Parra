@@ -295,7 +295,7 @@ prediccion-cafetera/
 │   ├── modelo_comparacion.png                 evaluación de modelos
 │   └── modelo_real_vs_predicho.png
 ├── docs/
-│   └── Informe_Final_GrupoXX_PrediccionCafetera.pdf
+
 └── src/
     ├── limpiar_datos.py          preparación de datos (Pandas)
     ├── graficos_seaborn.py       gráficos de análisis (Seaborn)
