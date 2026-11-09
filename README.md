@@ -6,7 +6,7 @@
 | | |
 |---|---|
 | **Integrantes** | MONICA ALEJANDRA PARRA QUINTERO |
-| **Informe final** | [COMPLETAR: enlace a `docs/Informe_Final_GrupoXX_PrediccionCafetera.pdf`] |
+| **Informe final** |  |
 | **Repositorio** | https://github.com/monialeja1011/Prediccion-Cafetera---Monica-Alejandra-Parra.git |
 | **Sustentación** | Lunes 23 de noviembre de 2026 |
  
