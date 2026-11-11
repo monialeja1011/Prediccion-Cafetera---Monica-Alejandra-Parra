@@ -72,7 +72,7 @@ Los datos provienen de las **Evaluaciones Agropecuarias Municipales (EVA)**, pub
  
 - **Archivo utilizado:** `data/eva_base_agricola.csv` (aproximadamente 33 MB).
 - **Recurso de descarga:** [Cultivos permanentes — Datos Abiertos del Valle del Cauca](https://datosabiertos.valledelcauca.gov.co/dataset/55a3d384-fec1-4267-8541-7d62a3fc9223/resource/7c578f9f-094d-4e6e-b1db-2f5e3bde32c9/download/cultivos_permanentes.csv)
-- **Portal de consulta:** [Evaluaciones Agropecuarias Municipales (EVA) — datos.gov.co](https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Evaluaciones-Agropecuarias-Municipales-EVA/2pnw-mmge/data)
+- **Portal de consulta:** [Datos Abiertos del Valle del Cauca](https://datosabiertos.valledelcauca.gov.co/dataset/consolidado-agricola-por-municipios-de-los-cultivos-permanentes-del-valle-del-cauca/resource/7c578f9f-094d-4e6e-b1db-2f5e3bde32c9)
 
 ### Calidad de los datos y limpieza
  
